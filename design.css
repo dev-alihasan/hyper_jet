@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-image: linear-gradient(
+    to right top,
+    #80beff,
+    #74b8ff,
+    #68b1ff,
+    #5cabff,
+    #4fa4ff,
+    #56a7ff,
+    #5da9ff,
+    #63acff,
+    #7bb9ff,
+    #92c5ff,
+    #a9d2ff,
+    #bfdeff
+  );
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* br {
+    color: #FDCA40", "#DF2935", "#3772FF", "#080708", "#23CE6B;
+} */
